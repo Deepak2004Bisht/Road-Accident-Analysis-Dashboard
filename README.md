@@ -7,9 +7,7 @@ This project focuses on turning raw accident data into meaningful insights using
 
 ## 📊 Dashboard Preview
 
-![Road Accident Dashboard](./Dashboard.png)
-
-> *Note: Replace `Dashboard.png` with the exact image name/path used in your GitHub repository.*
+![Road Accident Dashboard](./ExcelDashboard.png)
 
 ---
 
@@ -85,14 +83,3 @@ These filters allow users to dynamically explore data and drill down into specif
 - Slicers for interactivity  
 - Icons & Shapes for visual storytelling  
 - Clean UI design with consistent color themes  
-
----
-
-## 📁 Project Structure
-
-```text
-├── Dataset Sheet
-├── Pivot Tables
-├── Dashboard Sheet
-├── Dashboard.png
-└── README.md
